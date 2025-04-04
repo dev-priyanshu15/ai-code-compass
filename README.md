@@ -105,4 +105,4 @@ The primary goal of this project is to enhance the **Keploy Playground** by intr
 
 ## Screenshot of the Application
 
-![Screenshot of the Application](https://postimage.me/image/Screenshot-from-2025-04-04-15-13-55.UeP96s)
+![Screenshot of the Application](https://freeimage.host/i/35rKYPf)
