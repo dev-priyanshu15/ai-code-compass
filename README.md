@@ -103,4 +103,6 @@ The primary goal of this project is to enhance the **Keploy Playground** by intr
 
 ## Difficulty
 
-- **Hard**
+## Screenshot of the Application
+
+![Screenshot of the Application](https://postimage.me/image/Screenshot-from-2025-04-04-15-13-55.UeP96s)
